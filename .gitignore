@@ -1,0 +1,15 @@
+notes/
+.DS_Store
+wp-config.php
+vendor/
+wp/
+/content/*
+!/content/themes
+!/content/uploads
+/content/themes/*
+!/content/themes/lafraichevrerie
+!/content/plugins/
+/content/plugins/*
+!/content/plugins/frai'chevrerie-settings
+!/content/plugins/frai'chevrerie-stock
+!/content/plugins/Basic-Auth
